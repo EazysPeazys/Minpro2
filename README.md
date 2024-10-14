@@ -54,13 +54,13 @@ Kelas : Sistem Informasi C
 ![Screenshot 2024-10-14 220833](https://github.com/user-attachments/assets/7f0113ff-9cfa-4a93-bf35-0f6efa70b212)
 
 # HASIL OUTPUT YANG SALAH
-1. Salah dalam melakukan login Admin
+1. Kesalahan dalam melakukan login Admin
 ![Screenshot 2024-10-14 221719](https://github.com/user-attachments/assets/ef6be5ae-a531-4b06-a533-2f0038142d22)
-2.
+2. Kesalahan dalam mengubah list/daftar tiket beserta harga
 ![Screenshot 2024-10-14 221900](https://github.com/user-attachments/assets/c4eb1b65-46cc-4788-8f60-e2b65dfc8ccb)
-3.
+3. Kesalahan dalam melakukan login Customer
 ![Screenshot 2024-10-14 221942](https://github.com/user-attachments/assets/74303541-da9b-4491-9252-73120459fed5)
-4.
+4. Kesalahan dalam melakukan transaksi pembayaran
 ![Screenshot 2024-10-14 222028](https://github.com/user-attachments/assets/a3b6cd7e-97fd-47c6-94c0-d3f938a99b97)
-5.
+5. Kesalahan dalam melakukan pilihan (Langusng Exit tanpa melakukan pesan tiket atau Kosong)
 ![Screenshot 2024-10-14 222104](https://github.com/user-attachments/assets/10bfd702-5404-40f4-8288-54ff4c75379a)
