@@ -16,5 +16,10 @@ Kelas: Sistem Informasi C
 # FLOWCHART
 
 # HASIL OUTPUT YANG BENAR
+![Screenshot 2024-10-14 132631](https://github.com/user-attachments/assets/9e12f4a0-e0de-432f-a2a1-dd13c74d5674)
+![Screenshot 2024-10-14 132646](https://github.com/user-attachments/assets/c03037fc-dd4e-4034-b5f2-93e785fb61f5)
+![Screenshot 2024-10-14 132708](https://github.com/user-attachments/assets/3df776ca-ef28-45f8-a46a-98b6eb62c430)
+![Screenshot 2024-10-14 132727](https://github.com/user-attachments/assets/99bc7e65-128c-4721-93c3-aef35dfe749e)
+![Screenshot 2024-10-14 132745](https://github.com/user-attachments/assets/5f2394c2-2bf8-4ab3-818e-a4249ab0d484)
 
 # HASIL OUTPUT YANG SALAH
