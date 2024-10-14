@@ -5,21 +5,18 @@ NIM: 2409116090
 Kelas: Sistem Informasi C 
 
 # GAMBAR FULL CODINGAN 
-![Screenshot 2024-10-14 131018](https://github.com/user-attachments/assets/a24226b4-aa7f-4035-89aa-f289fa8c8521)
-![Screenshot 2024-10-14 131039](https://github.com/user-attachments/assets/5997333b-ee1f-475c-8419-e76ec2c5e479)
-![Screenshot 2024-10-14 131056](https://github.com/user-attachments/assets/e8b29a6e-c13e-475f-aa14-ab5b465931fb)
-![Screenshot 2024-10-14 131111](https://github.com/user-attachments/assets/52e38335-4735-4def-bbbd-96e0ee9272d0)
-![Screenshot 2024-10-14 131146](https://github.com/user-attachments/assets/e34cfa98-064b-4af2-add8-813a70848df2)
-![Screenshot 2024-10-14 131201](https://github.com/user-attachments/assets/134368a9-57db-4eeb-9b4f-b14883f990e6)
-![Screenshot 2024-10-14 131215](https://github.com/user-attachments/assets/0b437aea-6dcb-4b7a-b516-1fa4b258941e)
+![Screenshot 2024-10-14 213822](https://github.com/user-attachments/assets/88e86778-36fa-4d9a-a0bc-fab3faae57b6)
+![Screenshot 2024-10-14 213843](https://github.com/user-attachments/assets/2777bfb5-ee90-48bb-8091-6a9a90146d20)
+![Screenshot 2024-10-14 213902](https://github.com/user-attachments/assets/299eee35-82a4-4bd7-977c-1f7262f23b19)
+![Screenshot 2024-10-14 213928](https://github.com/user-attachments/assets/99fef526-ea33-4ed0-8323-62a98a9c24cb)
+![Screenshot 2024-10-14 213947](https://github.com/user-attachments/assets/066a3e92-a346-456e-a946-73142a12528c)
+![Screenshot 2024-10-14 214017](https://github.com/user-attachments/assets/2e122029-e58e-48e1-99e1-f290014ff30f)
+![Screenshot 2024-10-14 214036](https://github.com/user-attachments/assets/3760a2f5-0b90-4747-9a16-f43250cfcfd0)
+![Screenshot 2024-10-14 214050](https://github.com/user-attachments/assets/83688f72-cf50-405e-9a40-85f7c283d954)
 
 # FLOWCHART
 
 # HASIL OUTPUT YANG BENAR
-![Screenshot 2024-10-14 132631](https://github.com/user-attachments/assets/9e12f4a0-e0de-432f-a2a1-dd13c74d5674)
-![Screenshot 2024-10-14 132646](https://github.com/user-attachments/assets/c03037fc-dd4e-4034-b5f2-93e785fb61f5)
-![Screenshot 2024-10-14 132708](https://github.com/user-attachments/assets/3df776ca-ef28-45f8-a46a-98b6eb62c430)
-![Screenshot 2024-10-14 132727](https://github.com/user-attachments/assets/99bc7e65-128c-4721-93c3-aef35dfe749e)
-![Screenshot 2024-10-14 132745](https://github.com/user-attachments/assets/5f2394c2-2bf8-4ab3-818e-a4249ab0d484)
+
 
 # HASIL OUTPUT YANG SALAH
