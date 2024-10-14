@@ -54,7 +54,7 @@ Kelas : Sistem Informasi C
 ![Screenshot 2024-10-14 220833](https://github.com/user-attachments/assets/7f0113ff-9cfa-4a93-bf35-0f6efa70b212)
 
 # HASIL OUTPUT YANG SALAH
-1.
+1. Salah dalam melakukan login Admin
 ![Screenshot 2024-10-14 221719](https://github.com/user-attachments/assets/ef6be5ae-a531-4b06-a533-2f0038142d22)
 2.
 ![Screenshot 2024-10-14 221900](https://github.com/user-attachments/assets/c4eb1b65-46cc-4788-8f60-e2b65dfc8ccb)
