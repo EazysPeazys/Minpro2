@@ -1,8 +1,8 @@
-# MINI PROJECT 2 (Penjualan Tiket Nobar MotoGP)
+# MINI PROJECT 2 DASAR PEMROGRAMAN (Penjualan tiket nobar MotoGP)
 
-Nama: Nabil Daffa Athalasyah
-NIM: 2409116090
-Kelas: Sistem Informasi C 
+Nama  : Nabil Daffa Athalasyah
+NIM   : 2409116090
+Kelas : Sistem Informasi C 
 
 # GAMBAR FULL CODINGAN 
 ![Screenshot 2024-10-14 213822](https://github.com/user-attachments/assets/88e86778-36fa-4d9a-a0bc-fab3faae57b6)
@@ -29,3 +29,8 @@ Kelas: Sistem Informasi C
 ![Screenshot 2024-10-14 220833](https://github.com/user-attachments/assets/7f0113ff-9cfa-4a93-bf35-0f6efa70b212)
 
 # HASIL OUTPUT YANG SALAH
+![Screenshot 2024-10-14 221719](https://github.com/user-attachments/assets/ef6be5ae-a531-4b06-a533-2f0038142d22)
+![Screenshot 2024-10-14 221900](https://github.com/user-attachments/assets/c4eb1b65-46cc-4788-8f60-e2b65dfc8ccb)
+![Screenshot 2024-10-14 221942](https://github.com/user-attachments/assets/74303541-da9b-4491-9252-73120459fed5)
+![Screenshot 2024-10-14 222028](https://github.com/user-attachments/assets/a3b6cd7e-97fd-47c6-94c0-d3f938a99b97)
+![Screenshot 2024-10-14 222104](https://github.com/user-attachments/assets/10bfd702-5404-40f4-8288-54ff4c75379a)
